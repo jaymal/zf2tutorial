@@ -11,3 +11,5 @@ tags
 *local*.php
 composer.phar
 
+
+tests/_output/*

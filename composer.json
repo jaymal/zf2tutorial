@@ -10,7 +10,10 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*",
-        "doctrine/doctrine-orm-module": "0.*"
+        "doctrine/doctrine-orm-module": "0.*",
+        "codeception/codeception": "*",
+        "codeception/specify": "^0.4.2",
+        "codeception/verify": "^0.2.7"
     },
     "autoload": {
         "psr-0": { "Album": "module/Album/src/" }
